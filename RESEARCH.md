@@ -1,7 +1,7 @@
 # Search information about:
 
 ## Smart Pointers
->Note: incluse <memory.h>
+>Note: #include <memory.h>
 
 ### Unique Pointers
 ```cpp
