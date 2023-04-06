@@ -1,9 +1,0 @@
-C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/3_MemoryManagement/build-3-2SmartPointer-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/3-2SmartPointer.dir
-C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/3_MemoryManagement/build-3-2SmartPointer-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/3_MemoryManagement/build-3-2SmartPointer-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/3_MemoryManagement/build-3-2SmartPointer-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/3_MemoryManagement/build-3-2SmartPointer-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/3_MemoryManagement/build-3-2SmartPointer-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/3_MemoryManagement/build-3-2SmartPointer-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/3_MemoryManagement/build-3-2SmartPointer-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/3-2SmartPointer_autogen_timestamp_deps.dir
-C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/3_MemoryManagement/build-3-2SmartPointer-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/3-2SmartPointer_autogen.dir
