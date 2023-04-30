@@ -1,0 +1,27 @@
+# ninja log v5
+1	555	7045123930524486	4-3WidgetsSignalsSlots_connect_autogen/timestamp	31c0e08ebe7bf409
+1	555	7045123930524486	4-3WidgetsSignalsSlots_connect_autogen/mocs_compilation.cpp	31c0e08ebe7bf409
+1	555	7045123930524486	C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/4_signalsAndSlots/build-4-3WidgetsSignalsSlots_connect-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/4-3WidgetsSignalsSlots_connect_autogen/timestamp	31c0e08ebe7bf409
+1	555	7045123930524486	C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/4_signalsAndSlots/build-4-3WidgetsSignalsSlots_connect-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/4-3WidgetsSignalsSlots_connect_autogen/mocs_compilation.cpp	31c0e08ebe7bf409
+556	1925	7045123945458873	CMakeFiles/4-3WidgetsSignalsSlots_connect.dir/075edb38bbdad931704ca38566a1d469/mocs_compilation.cpp.obj	301cb4b1ceb6264d
+563	1964	7045123945858576	CMakeFiles/4-3WidgetsSignalsSlots_connect.dir/widget.cpp.obj	839acc286683311e
+560	1991	7045123946128567	CMakeFiles/4-3WidgetsSignalsSlots_connect.dir/main.cpp.obj	897e841995ddc848
+1991	2132	7045123947469015	4-3WidgetsSignalsSlots_connect.exe	7de7fca9ffd06b87
+14	551	7045137180726832	4-3WidgetsSignalsSlots_connect_autogen/timestamp	31c0e08ebe7bf409
+14	551	7045137180726832	4-3WidgetsSignalsSlots_connect_autogen/mocs_compilation.cpp	31c0e08ebe7bf409
+14	551	7045137180726832	C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/4_signalsAndSlots/build-4-3WidgetsSignalsSlots_connect-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/4-3WidgetsSignalsSlots_connect_autogen/timestamp	31c0e08ebe7bf409
+14	551	7045137180726832	C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/4_signalsAndSlots/build-4-3WidgetsSignalsSlots_connect-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/4-3WidgetsSignalsSlots_connect_autogen/mocs_compilation.cpp	31c0e08ebe7bf409
+555	2009	7045137196513259	CMakeFiles/4-3WidgetsSignalsSlots_connect.dir/075edb38bbdad931704ca38566a1d469/mocs_compilation.cpp.obj	301cb4b1ceb6264d
+551	2053	7045137197045242	CMakeFiles/4-3WidgetsSignalsSlots_connect.dir/main.cpp.obj	897e841995ddc848
+13	212	7045140096884551	4-3WidgetsSignalsSlots_connect_autogen/timestamp	31c0e08ebe7bf409
+13	212	7045140096884551	4-3WidgetsSignalsSlots_connect_autogen/mocs_compilation.cpp	31c0e08ebe7bf409
+13	212	7045140096884551	C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/4_signalsAndSlots/build-4-3WidgetsSignalsSlots_connect-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/4-3WidgetsSignalsSlots_connect_autogen/timestamp	31c0e08ebe7bf409
+13	212	7045140096884551	C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/4_signalsAndSlots/build-4-3WidgetsSignalsSlots_connect-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/4-3WidgetsSignalsSlots_connect_autogen/mocs_compilation.cpp	31c0e08ebe7bf409
+221	1635	7045140111115014	CMakeFiles/4-3WidgetsSignalsSlots_connect.dir/widget.cpp.obj	839acc286683311e
+1635	1774	7045140112457389	4-3WidgetsSignalsSlots_connect.exe	7de7fca9ffd06b87
+15	211	7045143119801460	4-3WidgetsSignalsSlots_connect_autogen/timestamp	31c0e08ebe7bf409
+15	211	7045143119801460	4-3WidgetsSignalsSlots_connect_autogen/mocs_compilation.cpp	31c0e08ebe7bf409
+15	211	7045143119801460	C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/4_signalsAndSlots/build-4-3WidgetsSignalsSlots_connect-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/4-3WidgetsSignalsSlots_connect_autogen/timestamp	31c0e08ebe7bf409
+15	211	7045143119801460	C:/Users/ManuelJ/Documents/qt-workspace/udemy/QT6-Cpp/4_signalsAndSlots/build-4-3WidgetsSignalsSlots_connect-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/4-3WidgetsSignalsSlots_connect_autogen/mocs_compilation.cpp	31c0e08ebe7bf409
+219	1701	7045143134683221	CMakeFiles/4-3WidgetsSignalsSlots_connect.dir/widget.cpp.obj	839acc286683311e
+1701	1849	7045143136142046	4-3WidgetsSignalsSlots_connect.exe	7de7fca9ffd06b87
